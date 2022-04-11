@@ -1,7 +1,7 @@
 # Text2img-tf2
 
-A Tensorflow-2.0 version implementation of Stackgan++. <br\>
-Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris N. Metaxas: StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks in TPAMI 2019.
+A Tensorflow-2.0 version implementation of Stackgan++. <br />
+Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris N. Metaxas: StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks in TPAMI 2019. [arxiv](https://arxiv.org/abs/1710.10916)
 
 ## Architecture
 
